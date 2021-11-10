@@ -35,12 +35,14 @@ python3 ebay-dl.py 'pants'
 ```
 
 For hockey stick.json
+
 To search for `hockey stick` input:
 ```
 python3 ebay-dl.py 'hockey stick'
 ```
 
 For bandanna.json
+
 To search for `bandannas` input:
 ```
 python3 ebay-dl.py 'bandanna'
