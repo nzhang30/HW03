@@ -28,7 +28,7 @@ python3 ebay-dl.py 'search term'
 ## Command lines for my json files
 
 For pants.json:
-To search for pants input: 
+To search for 'pants' input: 
 ```
 python3 ebay-dl.py 'pants'
 ```
